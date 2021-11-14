@@ -1,0 +1,10 @@
+.wrapper {
+    box-shadow: 0 1rem 3rem rgba(0, 0, 0, 0.175);
+    width: 100%;
+}
+
+.header_color {
+    background: rgb(8, 8, 8);
+    color: salmon;
+
+}
